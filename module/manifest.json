@@ -1,5 +1,6 @@
 {
     "description": "Light-weight camera access for Android.\n\nThe camera module allows for camera access in a similar way to the file module, however instead of launching the user's camera app it has its own simple camera view. This does not offer the full functionality of the camera app, but can be quicker and less prone to failure on low memory devices. This module is for Android only.", 
+    "min_platform_version": "v2.1.0", 
     "name": "camera", 
     "platform_version": "v2.1.0", 
     "version": "2.0"
